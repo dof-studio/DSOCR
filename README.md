@@ -29,5 +29,9 @@ Enhanced Inference API and User Interface for Using DeepSeek OCR Model on Window
 * V0 build 0.0.1 - 2025-10-28
 
 
+# GUI Preview 图形界面预览
+
+<img width="1476" height="861" alt="image" src="https://github.com/user-attachments/assets/8a2e1ad7-3658-4e5e-980c-35078791654f" />
+
 
 by Nathmath/Katz/dof-studio
