@@ -24,6 +24,10 @@
 * `Python 3.10.x`
 * `Python 3.12.x`
 
+* `pip command`
+```
+pip install torch==2.9.1 torchvision==0.24.0 transformers==4.46.3 tokenizers==0.20.3 tqdm einops addict easydict PyQt6 zstandard numpy pandas Pillow pycryptodome pymupdf img2pdf reportlab
+```
 
 
 # Version History 版本历史
