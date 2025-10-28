@@ -8,13 +8,15 @@ Enhanced Inference API and User Interface for Using DeepSeek OCR Model on Window
 # Features 特性
 
 * Efficient inference of DeepSeek-OCR models using multiple devices (CUDA/CPU) at multiple precisions (fp16/bf16/int8/nf4)
-
 * 使用多种设备(CUDA/CPU)在多种精度下(fp16/bf16/int8/nf4)高效推理DeepSeek-OCR模型
 * Exclusive custom inference API optimizes the speed, performance, and display of the model inference pipeline and supports different operating systems
 * 独家自定义推理API，优化了模型推理管线的速度、性能、显示，并支持不同操作系统
 * It has a modern, simple, easy-to-use and user-friendly reasoning GUI. All operations are fully automatic and no code is required
 * 具有现代、简洁、易用、人性化的推理GUI，一切操作完全自动话、无需任何代码
-
+* It supports working image cloning/importing and supports multi-task reasoning (in the future), allowing you to save or restore your complex workflow at any time
+* 它支持工作镜像克隆/导入，并支持多任务推理(未来)，使得您可以随时保存或还原您的复杂工作流
+* Support running as a server and running inference requests using standard http/https protocols (in the future)
+* 支持作为服务器运行，使用标准http/https协议运行推理请求(未来)
 
 
 # Python Version Recommendation 推荐的Python版本
