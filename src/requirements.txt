@@ -16,3 +16,4 @@ pycryptodome
 pymupdf
 img2pdf
 reportlab
+pillow-avif-plugin
