@@ -1,0 +1,16 @@
+{
+    "__attr__": "DSOCR",
+    "__config__": {
+        "app":{
+            "font" : "宋体",
+            "font_size": 10
+        },
+        "ImageProcessingGUI":{
+            "wd" : null,
+            "theme": null,
+            "inference_device" : null, 
+            "quant" : null,
+            "enable_magic": "all"
+        }
+    }
+}

@@ -1,0 +1,7 @@
+cd F:\
+cd F:\Python126
+venv\Scripts\activate
+cd D:\ToolsPy\DSOCR\DeepSeekOCRer\src
+python D:\ToolsPy\DSOCR\DeepSeekOCRer\src\dsocr_ui.py
+
+
