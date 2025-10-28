@@ -26,7 +26,7 @@
 
 * `pip command`
 ```
-pip install torch==2.9.1 torchvision==0.24.0 transformers==4.46.3 tokenizers==0.20.3 bitsandbytes>=0.41.0 tqdm einops addict easydict PyQt6 zstandard numpy pandas Pillow pycryptodome pymupdf img2pdf reportlab
+pip install torch==2.9.1 torchvision==0.24.0 transformers==4.46.3 tokenizers==0.20.3 bitsandbytes>=0.41.0 accelerate>=0.26.0 tqdm einops addict easydict PyQt6 zstandard numpy pandas Pillow pycryptodome pymupdf img2pdf reportlab
 ```
 
 
