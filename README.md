@@ -32,6 +32,7 @@ pip install torch==2.9.1 torchvision==0.24.0 transformers==4.46.3 tokenizers==0.
 # Version History 版本历史
 
 * V0 build 0.0.1 - 2025-10-28
+* planned on 0.0.1.1 small fix: bug fix, multi lingual support, pypi support, quick OCR shortcut
 
 
 # GUI Preview 图形界面预览
