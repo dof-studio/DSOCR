@@ -40,4 +40,4 @@ pip install torch==2.9.1 torchvision==0.24.0 transformers==4.46.3 tokenizers==0.
 <img width="1476" height="861" alt="image" src="https://github.com/user-attachments/assets/8a2e1ad7-3658-4e5e-980c-35078791654f" />
 
 
-`GUI by Nathmath/Katz/dof-studio`
+`GUI by Nathmath/Katz/fliggy39/dof-studio`
